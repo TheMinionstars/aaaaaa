@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "email": "admin@gmail.com",
+        "password": "admin@123",
+        "fullName": "Nguyen Van A",
+        "gender": true,
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "email": "member1@gmail.com",
+        "password": "member@123",
+        "fullName": "Tran Thi B",
+        "gender": false,
+        "role": "member"
+    },
+    {
+        "id": 3,
+        "email": "member2@gmail.com",
+        "password": "member@123",
+        "fullName": "Pham Van C",
+        "gender": true,
+        "role": "member"
+    },
+    {
+        "id": 4,
+        "email": "member3@gmail.com",
+        "password": "member@123",
+        "fullName": "Le Thi D",
+        "gender": false,
+        "role": "member"
+    },
+    {
+        "id": 5,
+        "email": "member4@gmail.com",
+        "password": "member@123",
+        "fullName": "Tran Van E",
+        "gender": true,
+        "role": "member"
+    }
+]

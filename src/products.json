@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "The Avengers (2012)",
+    "details": {
+      "publisher": "Marvel",
+      "author": "Evans ",
+      "date": 2012
+    },
+    "categoryId": 1,
+    "description": "Loki, người em trai nuôi độc ác của Thor đến từ hành tinh Asgard xa xôi, đột nhập vào căn cứ của S.H.I.E.L.D để chiếm khối Tesseract chứa nguồn năng lượng vô hạn. Hắn còn âm mưu dẫn một đội quân tới Trái đất thôn tính và biến loài người thành nô lệ. Nick Fury, giám đốc của S.H.I.E.L.D nỗ lực tập hợp một đội quân tinh nhuệ nhất để bảo vệ trái đất khỏi âm mưu của Loki.",
+    "rating": 4,
+    "image": "../assets/images/avenger-2012-l.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Avengers 2: Age of Ultron (2015)",
+    "details": {
+      "publisher": "Marvel",
+      "author": "Joss",
+      "date": 2015
+    },
+    "categoryId": 1,
+    "description": "Lấy khởi đầu từ nhân vật Tony Stark - siêu anh hùng Iron Man. Khi chàng tỷ phú tái khởi động dự án gìn giữ hòa bình bị ngưng hoạt động từ lâu, mọi chuyện diễn ra không hề suôn sẻ. Các siêu anh hùng vĩ đại nhất trên Trái đất gồm Iron Man, Captain America, Thor, Hulk, Black Widow và Hawkeye đứng trước một thử thách vô cùng khó khăn trong việc đem lại cân bằng cho toàn thế giới.",
+    "rating": 4,
+    "image": "../assets/images/avenger-2016.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Amazing Spider Man (2012)",
+    "details": {
+      "publisher": "Fox",
+      "author": "Stephan",
+      "date": 2014
+    },
+    "categoryId": 2,
+    "description": "Siêu Nhện Tái Xuất có khá nhiều khác biệt so với các phần trước tập trung ở sự khác biệt ở tính cách của các nhân vật. Trong phim này Peter không còn là cậu bé nhút nhát mà khá nghịch ngợm, bên cạnh đó đạo diễn Marc Webb cũng mạnh dạn đưa ra thêm nhiều thay đổi về cốt truyện để Amazing Spider-Man thực sự mới lạ so với các phiên bản cũ.",
+    "rating": 4,
+    "image":"../assets/images/spiderman-2012.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Amazing Spider Man 2: Rise of Electro (2014)",
+    "details": {
+      "publisher": "Fox",
+      "author": "Stephan",
+      "date": 2014
+    },
+    "categoryId": 3,
+    "description": "phim dở tệ không có gì để nói nó đã bóp chết spidy",
+    "rating": 4,
+    "image": "../assets/images/spiderman-2014.jpg"
+  },
+  {
+    "id": 5,
+    "name": "My Destiny (2022)",
+    "details": {
+      "publisher": "GDH 559",
+      "author": "Adisorn Tresirikasem",
+      "date": 2022
+    },
+    "categoryId": 5,
+    "description": "Câu chuyện tình xoay quanh cặp đôi định mệnh Bhop và Gaysorn với bối cảnh chính ở thời đại Rattanakosin (1782-1855)",
+    "rating": 10,
+    "image": "../assets/images/my-destiny.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Avengers (2012)",
+    "details": {
+      "publisher": "Marvel",
+      "author": "Evans ",
+      "date": 2012
+    },
+    "categoryId": 1,
+    "description": "Loki, người em trai nuôi độc ác của Thor đến từ hành tinh Asgard xa xôi, đột nhập vào căn cứ của S.H.I.E.L.D để chiếm khối Tesseract chứa nguồn năng lượng vô hạn. Hắn còn âm mưu dẫn một đội quân tới Trái đất thôn tính và biến loài người thành nô lệ. Nick Fury, giám đốc của S.H.I.E.L.D nỗ lực tập hợp một đội quân tinh nhuệ nhất để bảo vệ trái đất khỏi âm mưu của Loki.",
+    "rating": 4,
+    "image": "../assets/images/avenger-2012-l.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Avengers 2: Age of Ultron (2015)",
+    "details": {
+      "publisher": "Marvel",
+      "author": "Joss",
+      "date": 2015
+    },
+    "categoryId": 1,
+    "description": "Lấy khởi đầu từ nhân vật Tony Stark - siêu anh hùng Iron Man. Khi chàng tỷ phú tái khởi động dự án gìn giữ hòa bình bị ngưng hoạt động từ lâu, mọi chuyện diễn ra không hề suôn sẻ. Các siêu anh hùng vĩ đại nhất trên Trái đất gồm Iron Man, Captain America, Thor, Hulk, Black Widow và Hawkeye đứng trước một thử thách vô cùng khó khăn trong việc đem lại cân bằng cho toàn thế giới.",
+    "rating": 4,
+    "image": "../assets/images/avenger-2016.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Amazing Spider Man (2012)",
+    "details": {
+      "publisher": "Fox",
+      "author": "Stephan",
+      "date": 2014
+    },
+    "categoryId": 2,
+    "description": "Siêu Nhện Tái Xuất có khá nhiều khác biệt so với các phần trước tập trung ở sự khác biệt ở tính cách của các nhân vật. Trong phim này Peter không còn là cậu bé nhút nhát mà khá nghịch ngợm, bên cạnh đó đạo diễn Marc Webb cũng mạnh dạn đưa ra thêm nhiều thay đổi về cốt truyện để Amazing Spider-Man thực sự mới lạ so với các phiên bản cũ.",
+    "rating": 4,
+    "image":"../assets/images/spiderman-2012.jpg"
+  },
+  {
+    "id": 9,
+    "name": "The Amazing Spider Man 2: Rise of Electro (2014)",
+    "details": {
+      "publisher": "Fox",
+      "author": "Stephan",
+      "date": 2014
+    },
+    "categoryId": 3,
+    "description": "phim dở tệ không có gì để nói nó đã bóp chết spidy",
+    "rating": 4,
+    "image": "../assets/images/spiderman-2014.jpg"
+  },
+  {
+    "id": 10,
+    "name": "My Destiny (2022)",
+    "details": {
+      "publisher": "GDH 559",
+      "author": "Adisorn Tresirikasem",
+      "date": 2022
+    },
+    "categoryId": 5,
+    "description": "Câu chuyện tình xoay quanh cặp đôi định mệnh Bhop và Gaysorn với bối cảnh chính ở thời đại Rattanakosin (1782-1855)",
+    "rating": 10,
+    "image": "../assets/images/my-destiny.jpg"
+  }
+]

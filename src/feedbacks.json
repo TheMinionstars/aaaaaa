@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "product_id": 1,
+        "user_id": 1,
+        "feedback": "Great movie, loved the storyline and the characters!",
+        "comment_rating": 9
+    },
+    {
+        "id": 2,
+        "product_id": 1,
+        "user_id": 2,
+        "feedback": "The movie was alright, but I thought the pacing was a bit slow.",
+        "comment_rating": 6
+    },
+    {
+        "id": 3,
+        "product_id": 2,
+        "user_id": 3,
+        "feedback": "One of my favorite movies of all time, would highly recommend it!",
+        "comment_rating": 10
+    },
+    {
+        "id": 4,
+        "product_id": 2,
+        "user_id": 4,
+        "feedback": "The acting was great, but I didn't care for the ending.",
+        "comment_rating": 7
+    },
+    {
+        "id": 5,
+        "product_id": 3,
+        "user_id": 5,
+        "feedback": "A really solid thriller, kept me on the edge of my seat the whole time.",
+        "comment_rating": 8
+    },
+    {
+        "id": 6,
+        "product_id": 3,
+        "user_id": 6,
+        "feedback": "Not my favorite movie, but it was still pretty good.",
+        "comment_rating": 6
+    },
+    {
+        "id": 7,
+        "product_id": 4,
+        "user_id": 7,
+        "feedback": "A heartwarming story that really touched my heart.",
+        "comment_rating": 9
+    },
+    {
+        "id": 8,
+        "product_id": 4,
+        "user_id": 8,
+        "feedback": "I thought the movie was a bit too sentimental for my taste.",
+        "comment_rating": 5
+    },
+    {
+        "id": 9,
+        "product_id": 5,
+        "user_id": 9,
+        "feedback": "A great action movie with some amazing set pieces.",
+        "comment_rating": 8
+    },
+    {
+        "id": 10,
+        "product_id": 5,
+        "user_id": 10,
+        "feedback": "I thought the plot was a bit convoluted, but the acting was solid.",
+        "comment_rating": 7
+    }
+]

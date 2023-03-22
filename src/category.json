@@ -1,0 +1,22 @@
+[    
+    {        
+        "id": 1,        
+        "detail": "Phim hành động"    
+    },    
+    {        
+        "id": 2,        
+        "detail": "Phim tình cảm"
+        },   
+    {       
+        "id": 3,        
+        "detail": "Phim kinh dị"    
+    },   
+    {        
+        "id": 4,        
+        "detail": "Phim hài"    
+    },    
+    {        
+        "id": 5,       
+        "detail": "Phim hoạt hình"       
+    }
+]
